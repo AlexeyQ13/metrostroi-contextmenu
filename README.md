@@ -1,2 +1,8 @@
 # metrostroi-contextmenu
-https://steamcommunity.com/sharedfiles/filedetails/?id=2676999062
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2676999062
+Версия: 1.1
+
+Добавляет контекстное меню при зажатии буквы С на клавиатуре. На данный момент имеет в себе вкладку телепорта позволяющая телепортироваться к игрокам, станциям, в свой состав и по аналогии вкладка с управлением составом, при этом не открывая ULX-меню и не вводя команды !station !trainstart и прочее в чат.
+
+
+
